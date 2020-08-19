@@ -6,7 +6,7 @@
 4. Order the pizza
     4a. Pay over the phone using debit
     4b. Pay at the door
-5. Wait for delivery
+5. Wait for pizza
 6. Greet delivery driver
 7. See step 4b if necessary
     7a. Back on 4, make sure to leave a tip
