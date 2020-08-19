@@ -1,4 +1,6 @@
 1. Decide which business to order from
+    1a. Ask friends what kind of pizza they want
+    1b. Ask what businesses have the best pizza
 2. Decide which type of pizza to order
 3. Call the pizza place
 4. Order the pizza
