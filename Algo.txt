@@ -3,7 +3,7 @@
     1b. Ask what businesses have the best pizza (based on price, taste, and distance)
 2. Decide which type of pizza to order
 3. Call the pizza place
-4. Order the pizza
+4. Order the pizza from the pizzeria
     4a. Pay over the phone using debit
     4b. Pay at the door
 5. Wait for pizza
